@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171194272383",
+    "firebase_url": "https://app-machine-7c4c0.firebaseio.com",
+    "project_id": "app-machine-7c4c0",
+    "storage_bucket": "app-machine-7c4c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171194272383:android:73e5dd2f07bd61db",
+        "android_client_info": {
+          "package_name": "com.hepatitepredicao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171194272383-af1sf09bt1en3lu7ef8gi976r04ovv0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uOC0QrTKT9O7cgWc4E_hHGOu2H8qy1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171194272383-af1sf09bt1en3lu7ef8gi976r04ovv0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
